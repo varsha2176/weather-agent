@@ -1,0 +1,9 @@
+[project]
+name = "weather-agent"
+version = "0.1.0"
+description = "Weather Agent"
+
+[tool.uvicorn]
+host = "127.0.0.1"
+port = 9999
+reload = true

@@ -1,0 +1,6 @@
+{
+  "id": "weather-agent",
+  "name": "Weather Agent",
+  "description": "Gives weather updates for a location",
+  "author": "Your Name"
+}
